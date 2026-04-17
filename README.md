@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Le%20Duc%20Anh&%20Tuan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Le%20Duc%20Anh%20Tuan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing effect -->
