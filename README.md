@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 - 💬 Ask me about **Node.js, NestJS, React**
 - 📫 Email: **tuanleqn04@gmail.com**
-- 📄 CV: [View CV](https://drive.google.com/file/d/1H0GpOg6qGqtaPTpmuh35ClgpkQz8B1Ud/view)
+- 📄 Resume: [View resume](https://drive.google.com/file/d/1H0GpOg6qGqtaPTpmuh35ClgpkQz8B1Ud/view)
 - ⚡ Fun fact: *I think I am funny 😄*
 
 ---
